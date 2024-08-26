@@ -8,13 +8,6 @@
 - **Python**: For data cleaning, analysis, and visualizations.
 - **Power BI**: For creating interactive dashboards and reports.
 
-## PowerBi Dashboard
-![amazon dashboard page 1](https://github.com/Annulijo/Data-Science-Project/blob/main/Amazon_sales1.png)
----
-
-![amazon dashboard page 2](https://github.com/Annulijo/Data-Science-Project/blob/main/Amazon_sales2.png)
----
-
 ## Key Features
 - Total Profit and Revenue Overview
 - Revenue vs. Profit by Product
@@ -22,6 +15,13 @@
 - Total Profit by Order Priority
 - Total Revenue by Sales Channel
 - Revenue by Product Category
+
+## PowerBi Dashboard
+![amazon dashboard page 1](https://github.com/Annulijo/Data-Science-Project/blob/main/Amazon_sales1.png)
+---
+
+![amazon dashboard page 2](https://github.com/Annulijo/Data-Science-Project/blob/main/Amazon_sales2.png)
+---
 
 ##  Detailed Project Report
 
