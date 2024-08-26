@@ -10,11 +10,11 @@
 
 ## PowerBi Dashboard
 ### Page 1
-![amazon dashboard page 1]()
+![amazon dashboard page 1](https://github.com/Annulijo/Data-Science-Project/blob/main/Amazon_sales1.png)
 ---
 
 ### Page 2
-![amazon dashboard page 2]()
+![amazon dashboard page 2](https://github.com/Annulijo/Data-Science-Project/blob/main/Amazon_sales2.png)
 ---
 
 ## Key Features
