@@ -1,6 +1,4 @@
 # AMAZON SALES ANALYSIS
----
-Amazon is a multinational technology company based in the United States, known primarily as an e-commerce platform offering a wide range of product categories. These include media such as books, videos, music, software, and games, as well as apparel, baby products, consumer electronics, beauty and personal care items, gourmet food, groceries, and health products. Additionally, Amazon sells industrial and scientific supplies, kitchenware, jewelry, watches, lawn and garden equipment, musical instruments, sporting goods, tools, automotive products, toys, games, and even consulting services.
 
 ## Problem Statement:
 
