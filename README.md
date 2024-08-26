@@ -34,3 +34,7 @@
 7. Matplotlib
 8. PowerBI 
 </pre>
+
+##  Detailed Project Report
+
+Link: https://www.canva.com/design/DAGNiGbd8RM/N5T876BkpRwif9RQTDMnxg/edit?utm_content=DAGNiGbd8RM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
